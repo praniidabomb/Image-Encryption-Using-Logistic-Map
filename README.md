@@ -17,8 +17,5 @@ Various security analysis performed
 Sample Image :
 ![image](https://github.com/user-attachments/assets/c0469765-ac29-4764-ae0e-d8cc4f1defb6)
 
-image
-
 Result :
-
-image
+![image](https://github.com/user-attachments/assets/3b055774-ef48-4e3f-a8dc-f0309744335b)
